@@ -12,6 +12,9 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		System.out.println("hello world");
+		
 		Timer timer = new Timer();
 		//Timer在1000ms后任务执行，每隔24小时执行一次
 		System.out.println("11111111111");
